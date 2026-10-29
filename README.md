@@ -46,3 +46,7 @@ If a new version ever fails to start, Sigurado goes back to the last version tha
 - `f-<hash>` files: the app's files, each named by its content hash, so phones only download
   what changed.
 - `sigurado-vX.Y.Z.apk`: the Android app, on releases that need one.
+
+## License
+
+Apache License 2.0. See [LICENSE](LICENSE).
